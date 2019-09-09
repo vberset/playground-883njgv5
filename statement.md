@@ -16,7 +16,9 @@ async function foo() {
     console.log('Hello World!');
 }
 
-await foo();
+(async () => {
+    await foo();
+})();
 ```
 
 # Advanced usage
