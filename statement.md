@@ -11,7 +11,12 @@ Dans ce tutoriel, nous allons nous concentré sur une version particulière de J
 
 ```javascript runnable
 const n = 12;
-console.log('Hello World!');
+
+async function foo() {
+    console.log('Hello World!');
+}
+
+await foo();
 ```
 
 # Advanced usage
