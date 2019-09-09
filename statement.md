@@ -6,7 +6,7 @@ Malgré son nom, JavaScript **ne doit pas être confondu** avec le langage Java.
 
 JavaScript est langage relativement facile à apprendre, mais difficile à maîtriser. En particulier parce qu’il évolue très vite. Créé en 1995, il a dû s’adapter aux besoins des applications web modernes, et il continuera à le faire.
 
-Dans ce tutoriel, nous allons nous concentré sur une version particulière de JavaScript appelée **ES7**. *ES* signifie *ECMAScript*. C’est le nom du standard du langage. *ES7* est la 6ème version du standard, d’où son nom. Elle a été publiée en 2015, c’est pourquoi elle est également appelée **ES2016**.
+Dans ce tutoriel, nous allons nous concentré sur une version particulière de JavaScript appelée **ES7**. *ES* signifie *ECMAScript*. C’est le nom du standard du langage. *ES7* est la 6ème version du standard, d’où son nom. Elle a été publiée en 2016, c’est pourquoi elle est également appelée **ES2016**.
 
 
 ```javascript runnable
