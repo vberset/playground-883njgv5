@@ -1,6 +1,12 @@
 # Introduction
 
-**JavaScript** est un langage de programmation. Il est extrêmement populaire pour le développement web, car il est le principal langage permettant de réaliser des **pages web interactives** (front end). Mais il permet également de développer la **logique serveur** (back end) d’une application web. En outre il peut être utilisé pour développer des **applications mobiles** ou des **applications de bureau**.
+**JavaScript** est un langage de programmation créé en 1995 pour être exécuté dans un navigateur Web, et ainsi enrichir les possibilités d’animation et d’interration des pages web. Il est devenu très vite populaire et a été adopté dans tous les navigateurs. Finalement, JavaScript est devenu un standard du Web, rejoignant HTML et CSS pour former le triforce du développeur web front-end.
+
+
+
+
+
+Il est extrêmement populaire pour le développement web, car il est le principal langage permettant de réaliser des **pages web interactives** (front end). Mais il permet également de développer la **logique serveur** (back end) d’une application web. En outre il peut être utilisé pour développer des **applications mobiles** ou des **applications de bureau**.
 
 Malgré son nom, JavaScript **ne doit pas être confondu** avec le langage Java. Lors de la création de JavaScript, son auteur à choisi d’utiliser «Java» dans son nom pour profiter de la notoriété du langage Java. Mais le lien de parenté s’arrête là.
 
